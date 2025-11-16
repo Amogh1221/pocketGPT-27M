@@ -12,6 +12,11 @@ This project demonstrates end‑to‑end LLM development on consumer‑level or 
 
 ---
 
+## Sample Outputs
+
+### Model Response Example
+![Sample Output](assets/sample1.png)
+
 ## Key Features
 
 * **Custom Byte‑Level BPE tokenizer** (vocab size: 24k)
